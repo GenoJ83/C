@@ -6,7 +6,7 @@ int main() {
     scanf("\n%c",&region);
 switch (region) {
 case 'N':
-printf("Emergency response initiated\n");
+printf("Emergency response initiated\n");  
 break;
 case 'C':
 printf("Emergency response initiated\n");
