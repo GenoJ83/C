@@ -14,6 +14,7 @@ percentage < 40% : Grade F*/
 
 #include <stdio.h>
 int main (){
+    //initializing the variables
     int biology,physics,chemistry,mathematics,computer;
     char grade;
     int total_marks;
