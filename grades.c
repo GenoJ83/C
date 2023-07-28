@@ -35,7 +35,7 @@ int main (){
 total_marks = biology+chemistry+mathematics+computer+physics;
 percentage= (float)total_marks/500*100;
 
-//condition
+//conditions
  grade;
 if(percentage>=90){
     grade='A';
@@ -54,7 +54,7 @@ else if(percentage>=40){
     grade='F';
 }
 
-//Results
+//Final Results
 printf("Percentage:.%2f\n",percentage);
 printf("Grade:%c\n",grade);
 
