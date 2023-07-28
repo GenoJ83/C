@@ -35,7 +35,7 @@ int main (){
 total_marks = biology+chemistry+mathematics+computer+physics;
 percentage= (float)total_marks/500*100;
 
-//conditions
+//conditional statement
  grade;
 if(percentage>=90){
     grade='A';
