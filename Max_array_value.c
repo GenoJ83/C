@@ -22,7 +22,7 @@ int main() {
         }
     }
 
-    // Outputting the result
+    // Output the result
     printf("The maximum value in the array is: %d\n", max_value);
 
     return 0;
